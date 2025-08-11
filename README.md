@@ -1,4 +1,4 @@
-# emailreader.github.io
+# Email Reader
 A lightweight Python/Tkinter application to read .eml and .msg email files, view headers/body, and extract attachments — with optional HTML preview and one-click Windows EXE packaging.
 
 # Email Reader & Attachment Extractor
@@ -23,7 +23,8 @@ A simple Python/Tkinter app to open `.eml` and `.msg` files, read headers/body, 
    git clone https://github.com/yourusername/email-reader.git
    cd email-reader
 
-   Converting to a Windows EXE
+
+Converting to a Windows EXE
    
 You can create a standalone .exe so users don’t need Python installed.
 
