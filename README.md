@@ -22,7 +22,7 @@ A simple Python/Tkinter app to open `.eml` and `.msg` files, read headers/body, 
 
    ```bash
      git clone https://github.com/zrnge/emailreader.git
-     cd email-reader
+     cd emailreader
      pip install -r requirements.txt
 
 
